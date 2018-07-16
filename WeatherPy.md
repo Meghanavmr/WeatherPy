@@ -3,6 +3,9 @@
 
 
 #### Trends Observed
+* Trend 1-Latitude vs. Max Temperature plot shows typical relationship between the latitude and temperature. The temperatures of the cities that are away from 0 degree latitude drop consistently. 
+* Trend 2-Latitude vs. Humidity plot shows high humidity percentages for the cities between 0 degree & 20 degree latitude whereas for higher latitudes the humidity ranges from low of below 20% to 100%. 
+* Trend 3-The relationship of cloudiness and windspeed in the 500 cities look steady. To show any typical trend it will be imperative to do a comparative data analysis of overall weather trends of a few sample cities over a specifc period of time.
 
 
 ```python
